@@ -1,0 +1,8 @@
+**/.*
+dist/
+test/
+coverage/
+Gruntfile.js
+index.js
+karma.*.js
+webpack.*.js
