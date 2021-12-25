@@ -1,8 +1,8 @@
 {
   "name": "loquat-axios",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise based HTTP client for the browser and node.js",
-  "main": "index.js",
+  "main": "dist/axios.min.js",
   "scripts": {
     "test": "grunt test && bundlesize",
     "build": "grunt build && grunt version && git add -A dist",
