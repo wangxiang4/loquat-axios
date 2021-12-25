@@ -3,6 +3,8 @@
 coverage/
 node_modules/
 test/
+lib/
 Gruntfile.js
 karma.conf.js
 webpack.*.js
+index.js
